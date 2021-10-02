@@ -4,3 +4,4 @@ So here you can create your pull requests.
 
 Here I'm gonna give some guidline to make a pull request:
 1. Fork any github repo.
+2. Makes some change to the repo that you've forked
